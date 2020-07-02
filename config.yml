@@ -1,0 +1,12 @@
+config:
+  server:
+    name: SPAWN
+    center: 'world:0:0:0:0:0'
+  servers:
+    north: 'N1'
+    east: 'E1'
+    south: 'S1'
+    west: 'W1'
+  other:
+    pluginname: 'OpenSectors'
+    serverIP: 'sm-pack.xyz'

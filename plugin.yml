@@ -1,0 +1,9 @@
+name: OpenSectors
+version: 0.1_OPENBETA
+main: com.bartekmajster.opensectors
+author: BartekMajster
+description: Simple Sectors Language Poland by BartekMajster
+
+commands:
+  sektor:
+  sektorinfo:
